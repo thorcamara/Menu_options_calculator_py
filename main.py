@@ -6,7 +6,7 @@ while option != 7:
     print(''' \t [ 1 ] Sum
      [ 2 ] Subtract
      [ 3 ] Multiply
-     [ 4 ] Division
+     [ 4 ] Divide
      [ 5 ] Greater
      [ 6 ] New numbers
      [ 7 ] Exit the program''')
